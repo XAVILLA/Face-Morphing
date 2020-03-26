@@ -1,3 +1,7 @@
+Full Project Report at: https://inst.eecs.berkeley.edu/~cs194-26/sp20/upload/files/proj3/cs194-26-act/
+    
+    
+    
     To reproduce the result of this project
     To record the correspondence of an image: "python main.py {image path} record {given name for data}"
 Then data of this image will be stored in the folder "points_data" as "{given name}_data.txt"
